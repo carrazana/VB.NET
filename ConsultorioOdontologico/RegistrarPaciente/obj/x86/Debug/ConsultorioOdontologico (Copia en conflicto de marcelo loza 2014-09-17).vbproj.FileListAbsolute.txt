@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmInicioSistema.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarEmpleado.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarMutual.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarPaciente.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico (Copia en conflicto de marcelo loza 2014-09-17).vbproj.GenerateResource.Cache

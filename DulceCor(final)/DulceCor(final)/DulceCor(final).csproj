@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D0E3161B-321F-4BA2-BF8A-30273C56FFF1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DulceCor_final_</RootNamespace>
+    <AssemblyName>DulceCor%28final%29</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap-theme.min.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="DulceCor.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Consumidores.aspx" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\shop-homepage.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Golosina.aspx" />
+    <Content Include="img\beldetFrutilla.jpg" />
+    <Content Include="img\cabsha.jpg" />
+    <Content Include="img\fondo.jpg" />
+    <Content Include="img\golosinas1.jpg" />
+    <Content Include="img\golosinas2.jpg" />
+    <Content Include="img\golosinas3.jpg" />
+    <Content Include="img\vacio.jpg" />
+    <Content Include="InformePromocion.aspx" />
+    <Content Include="InformeVenta.aspx" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\jquery-ui-1.11.4.custom\external\jquery\jquery.js" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_glass_100_e4f1fb_1x400.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_glass_50_3baae3_1x400.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_glass_80_d7ebf9_1x400.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_highlight-hard_70_000000_1x100.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_highlight-soft_100_deedf7_1x100.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-bg_highlight-soft_25_ffef8f_1x100.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-icons_2694e8_256x240.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-icons_3d80b3_256x240.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-icons_72a7cf_256x240.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="js\jquery-ui-1.11.4.custom\index.html" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.css" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.js" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.min.css" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.min.js" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.structure.css" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.structure.min.css" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.theme.css" />
+    <Content Include="js\jquery-ui-1.11.4.custom\jquery-ui.theme.min.css" />
+    <Content Include="js\jquery.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="NuevaPromocion.aspx" />
+    <Content Include="Promociones.aspx" />
+    <Content Include="SuCompra.aspx" />
+    <Content Include="SuPromocion.aspx" />
+    <Content Include="Venta.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consumidores.aspx.cs">
+      <DependentUpon>Consumidores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Consumidores.aspx.designer.cs">
+      <DependentUpon>Consumidores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DulceCor.Master.cs">
+      <DependentUpon>DulceCor.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DulceCor.Master.designer.cs">
+      <DependentUpon>DulceCor.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Golosina.aspx.cs">
+      <DependentUpon>Golosina.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Golosina.aspx.designer.cs">
+      <DependentUpon>Golosina.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InformePromocion.aspx.cs">
+      <DependentUpon>InformePromocion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InformePromocion.aspx.designer.cs">
+      <DependentUpon>InformePromocion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="InformeVenta.aspx.cs">
+      <DependentUpon>InformeVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InformeVenta.aspx.designer.cs">
+      <DependentUpon>InformeVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaPromocion.aspx.cs">
+      <DependentUpon>NuevaPromocion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NuevaPromocion.aspx.designer.cs">
+      <DependentUpon>NuevaPromocion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Promociones.aspx.cs">
+      <DependentUpon>Promociones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Promociones.aspx.designer.cs">
+      <DependentUpon>Promociones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuCompra.aspx.cs">
+      <DependentUpon>SuCompra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SuCompra.aspx.designer.cs">
+      <DependentUpon>SuCompra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SuPromocion.aspx.cs">
+      <DependentUpon>SuPromocion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SuPromocion.aspx.designer.cs">
+      <DependentUpon>SuPromocion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Venta.aspx.cs">
+      <DependentUpon>Venta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Venta.aspx.designer.cs">
+      <DependentUpon>Venta.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DulceCorEnt\DulceCorEnt.csproj">
+      <Project>{c2abeb41-91d4-4b13-b2af-304de6181fd8}</Project>
+      <Name>DulceCorEnt</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DulceCorNeg\DulceCorNeg.csproj">
+      <Project>{0bc90084-3781-4e40-b81c-8871ac2259ef}</Project>
+      <Name>DulceCorNeg</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Code\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>54888</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:54888/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

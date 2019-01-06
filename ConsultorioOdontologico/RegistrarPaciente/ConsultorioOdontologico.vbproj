@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B3E656D-E45B-4CA5-B8E1-2834C72B319E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>ConsultorioOdontologico</RootNamespace>
+    <AssemblyName>ConsultorioOdontologico</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ConsultorioOdontologico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ConsultorioOdontologico.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>imagenes\diente.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WebCAM">
+      <HintPath>.\WebCAM.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form\AgregarInsumo.Designer.vb">
+      <DependentUpon>AgregarInsumo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\AgregarInsumo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmABMTratamiento.Designer.vb">
+      <DependentUpon>frmABMTratamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmABMTratamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmABMTurnos.Designer.vb">
+      <DependentUpon>frmABMTurnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmABMTurnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmCapturar.Designer.vb">
+      <DependentUpon>frmCapturar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmCapturar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmABMGenerico.Designer.vb">
+      <DependentUpon>frmABMGenerico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmABMGenerico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmCompraInsumo.Designer.vb">
+      <DependentUpon>frmCompraInsumo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmCompraInsumo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmInicioSistema.Designer.vb">
+      <DependentUpon>frmInicioSistema.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmInicioSistema.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmMostrarPacientes.Designer.vb">
+      <DependentUpon>frmMostrarPacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmMostrarPacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRegistrarEmpleado.Designer.vb">
+      <DependentUpon>frmRegistrarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRegistrarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRegistrarIntervencion.Designer.vb">
+      <DependentUpon>frmRegistrarIntervencion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRegistrarIntervencion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRegistrarPaciente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRegistrarPaciente.Designer.vb">
+      <DependentUpon>frmRegistrarPaciente.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRegistrarProveedor.Designer.vb">
+      <DependentUpon>frmRegistrarProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRegistrarProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRegistrarStock.Designer.vb">
+      <DependentUpon>frmRegistrarStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRegistrarStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\_variable.vb" />
+    <Compile Include="Helper\BDHelper.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportes\frmListadoPacientes.Designer.vb">
+      <DependentUpon>frmListadoPacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmListadoPacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmListadoStock.Designer.vb">
+      <DependentUpon>frmListadoStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmListadoStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmEstadisticaTratamientosMasUsados.Designer.vb">
+      <DependentUpon>frmEstadisticaTratamientosMasUsados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmEstadisticaTratamientosMasUsados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmListadoTurnos.Designer.vb">
+      <DependentUpon>frmListadoTurnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmListadoTurnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmProfesionalConMasTurnos.Designer.vb">
+      <DependentUpon>frmProfesionalConMasTurnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmProfesionalConMasTurnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\InsumosMasUsados.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InsumosMasUsados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\InsumosMasUsadosvb.Designer.vb">
+      <DependentUpon>InsumosMasUsadosvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\InsumosMasUsadosvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ListadoPacientes.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ListadoPacientes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\ProfesionalConMasTurnos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProfesionalConMasTurnos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteStock.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteStock.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteTurnos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteTurnos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\TratamientosMasUsados.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TratamientosMasUsados.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="form\AgregarInsumo.resx">
+      <DependentUpon>AgregarInsumo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmABMTratamiento.resx">
+      <DependentUpon>frmABMTratamiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmABMTurnos.resx">
+      <DependentUpon>frmABMTurnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmCapturar.resx">
+      <DependentUpon>frmCapturar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmABMGenerico.resx">
+      <DependentUpon>frmABMGenerico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmCompraInsumo.resx">
+      <DependentUpon>frmCompraInsumo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmInicioSistema.resx">
+      <DependentUpon>frmInicioSistema.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmMostrarPacientes.resx">
+      <DependentUpon>frmMostrarPacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRegistrarEmpleado.resx">
+      <DependentUpon>frmRegistrarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRegistrarIntervencion.resx">
+      <DependentUpon>frmRegistrarIntervencion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRegistrarPaciente.resx">
+      <DependentUpon>frmRegistrarPaciente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRegistrarProveedor.resx">
+      <DependentUpon>frmRegistrarProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRegistrarStock.resx">
+      <DependentUpon>frmRegistrarStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmListadoPacientes.resx">
+      <DependentUpon>frmListadoPacientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmListadoStock.resx">
+      <DependentUpon>frmListadoStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmEstadisticaTratamientosMasUsados.resx">
+      <DependentUpon>frmEstadisticaTratamientosMasUsados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmListadoTurnos.resx">
+      <DependentUpon>frmListadoTurnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmProfesionalConMasTurnos.resx">
+      <DependentUpon>frmProfesionalConMasTurnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\InsumosMasUsados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InsumosMasUsados.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\InsumosMasUsadosvb.resx">
+      <DependentUpon>InsumosMasUsadosvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ListadoPacientes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ListadoPacientes.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ProfesionalConMasTurnos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProfesionalConMasTurnos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteStock.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteStock.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteTurnos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteTurnos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\TratamientosMasUsados.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TratamientosMasUsados.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagenes\turnos.png" />
+    <None Include="imagenes\CANCELAR.ICO" />
+    <None Include="imagenes\BUSCAR01.bmp" />
+    <None Include="imagenes\actualizar.bmp" />
+    <Content Include="imagenes\diente.ico" />
+    <None Include="imagenes\modificar.bmp" />
+    <None Include="imagenes\Nuevo.bmp" />
+    <None Include="imagenes\Empty Recycle Bin 2000.ico" />
+    <None Include="imagenes\puerta.bmp" />
+    <None Include="imagenes\Grabar.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

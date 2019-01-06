@@ -1,0 +1,628 @@
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\RegistrarPaciente.exe
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\RegistrarPaciente.xml
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\RegistrarPaciente.pdb
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\bin\Debug\RegistrarPaciente.exe
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\bin\Debug\RegistrarPaciente.pdb
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\bin\Debug\RegistrarPaciente.xml
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmInicioSistema.resources
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarPaciente.resources
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\marcelo\Desktop\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmInicioSistema.resources
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarEmpleado.resources
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarMutual.resources
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.frmRegistrarPaciente.resources
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Javier\Mis documentos\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarMutual.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarMutual.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Marcelo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Pablo\Dropbox\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\bin\Debug\WebCAM.dll
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarMutual.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+E:\Documents\FACULTAD\PAV\PAV\RegistrarPaciente\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+D:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+D:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+D:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+D:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+D:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+D:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Nico\Desktop\Nueva carpeta\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.VentanaPacientes.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.VentanaPacientes.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Pablo\Desktop\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmConsultaTratamiento.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.VentanaPacientes.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+G:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.VentanaPacientes.resources
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+D:\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Nico\Desktop\proyectoPavv02\ProyectoPAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+D:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+E:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+E:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+E:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+E:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+G:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+H:\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+H:\noTocar\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Nico\Desktop\COPAV\ProyectoPAVv02\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+E:\Lenguaje VB.net\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+G:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+H:\versiones nuevas\18_09\ProyectoPAVv3\ProyectoPAVv3\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Nico\Desktop\version18-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\19-09\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Nico\Desktop\19-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Nico\Desktop\19-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Nico\Desktop\19-09\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+H:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+H:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+H:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+H:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+H:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+C:\Users\PABLO\Desktop\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\PABLO\Desktop\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\PABLO\Desktop\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\PABLO\Desktop\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+G:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+G:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+G:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Angel\Documents\angel\PAV Angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+G:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+E:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+H:\angel\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.Shared.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\FlashControlV71.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ShockwaveFlashObjects.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\stdole.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Form1.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoTurnos.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoTurnos.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmEstadisticaTratamientosMasUsados.resources
+H:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoStock.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoStock.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmEstadisticaTratamientosMasUsados.resources
+G:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoTurnos.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoStock.resources
+E:\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmEstadisticaTratamientosMasUsados.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.pdb
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.xml
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\FlashControlV71.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\WebCAM.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\stdole.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbprojResolveAssemblyReference.cache
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.AgregarInsumo.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTratamiento.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMTurnos.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCapturar.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmABMGenerico.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmCompraInsumo.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmInicioSistema.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmMostrarPacientes.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarEmpleado.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarIntervencion.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarPaciente.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarProveedor.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmRegistrarStock.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.Resources.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoStock.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmEstadisticaTratamientosMasUsados.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoTurnos.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.vbproj.GenerateResource.Cache
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmProfesionalConMasTurnos.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.InsumosMasUsadosvb.resources
+C:\Users\Angel\Videos\PAV\ConsultorioOdontologico (1)\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.frmListadoPacientes.resources
+D:\Documentos\FACULTAD\PAV\ConsultorioOdontologico\RegistrarPaciente\bin\Debug\ConsultorioOdontologico.exe.config
+D:\Documentos\FACULTAD\PAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.exe
+D:\Documentos\FACULTAD\PAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.xml
+D:\Documentos\FACULTAD\PAV\ConsultorioOdontologico\RegistrarPaciente\obj\x86\Debug\ConsultorioOdontologico.pdb
